@@ -35,13 +35,13 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 x-status: defunct
-x-status-note: Company ceased operations years ago; the mediapassage.com domain now
-  redirects to a HugeDomains for-sale listing. No active website, developer portal,
-  or API surface exists to enrich.
+x-status-note: Company ceased operations years ago; the mediapassage.com domain now redirects to a HugeDomains
+  for-sale listing. No active website, developer portal, or API surface exists to enrich.
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
